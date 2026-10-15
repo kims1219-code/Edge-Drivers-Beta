@@ -549,3 +549,9 @@ zigbeeManufacturer:
     deviceLabel: TS0210 Vibration Sensor
     model: TS0210
     deviceProfileName: motion-battery-sens
+    
+    - id: "AOYAN/AY-204Z"
+  deviceLabel: "AOYAN Motion Sensor"
+  manufacturer: AOYAN
+  model: AY-204Z
+  deviceProfileName: safety-motion-ay204z-battery
